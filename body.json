@@ -1,0 +1,34 @@
+{
+  "parent": {
+    "database_id": "TU_DATABASE_ID_AQUI"
+  },
+  "properties": {
+    "Nombre": {
+      "title": [
+        {
+          "text": {
+            "content": "{{nombre_gasto}}"
+          }
+        }
+      ]
+    },
+    "Precio": {
+      "number": {{monto}}
+    },
+    "Fecha": {
+      "date": {
+        "start": "{{fecha_actual}}"
+      }
+    },
+    "Categoria": {
+      "select": {
+        "name": "{{categoria_seleccionada}}"
+      }
+    },
+    "Metodo de Pago": {
+      "select": {
+        "name": "{{metodo_pago}}"
+      }
+    }
+  }
+}
