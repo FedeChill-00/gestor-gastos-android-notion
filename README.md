@@ -43,7 +43,6 @@ El objetivo es reducir la fricción de anotar gastos: un toque en la pantalla de
 * `body.json`: La estructura exacta del JSON para configurar el envío.
 * `README.md`: Esta documentación.
 
-## 🤝 Créditos
 ## 🤝 Créditos y Recursos
 * **Inspiración y Lógica:** Basado en el método de automatización para iOS explicado por [Sofi de Eyetrade](https://www.youtube.com/watch?v=acHnDorJskg).
 * **Plantilla de Notion:** Estructura de base de datos original creada por [Angel Santana](https://angelsantana.notion.site/Tracker-de-gastos-8036f109625849d891b48f0f3cb3a791).
